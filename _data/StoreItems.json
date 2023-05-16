@@ -13609,18 +13609,6 @@
 		"defname": "WVC_XenotypeSerum_Hybrid_VRE_Animakin_RB"
 	},
 	{
-		"abr": "hybridserum(awakenedandroid)",
-		"price": 4583,
-		"category": "Hybrid serums",
-		"defname": "WVC_XenotypeSerum_Hybrid_VREA_AndroidAwakened_RB"
-	},
-	{
-		"abr": "hybridserum(basicandroid)",
-		"price": 4583,
-		"category": "Hybrid serums",
-		"defname": "WVC_XenotypeSerum_Hybrid_VREA_AndroidBasic_RB"
-	},
-	{
 		"abr": "hybridserum(chaoscultist)",
 		"price": 4583,
 		"category": "Hybrid serums",
@@ -15697,18 +15685,6 @@
 		"defname": "WVC_XenotypeSerum_VRE_Animakin_RB"
 	},
 	{
-		"abr": "xenotypeserum(awakenedandroid)",
-		"price": 2833,
-		"category": "Ultra serums",
-		"defname": "WVC_XenotypeSerum_VREA_AndroidAwakened_RB"
-	},
-	{
-		"abr": "xenotypeserum(basicandroid)",
-		"price": 2833,
-		"category": "Ultra serums",
-		"defname": "WVC_XenotypeSerum_VREA_AndroidBasic_RB"
-	},
-	{
 		"abr": "xenotypeserum(chaoscultist)",
 		"price": 2833,
 		"category": "Ultra serums",
@@ -15775,5 +15751,5 @@
 		"defname": "WVC_XenotypeSerum_BEWH_DPNurgle_RB"
 	},
 	],
-	"total": 2656
+	"total": 2655
 }

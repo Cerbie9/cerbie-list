@@ -50719,7 +50719,7 @@
     "Mod": null,
     "KarmaType": null
   },
-  "WVC_XenotypeSerum_VREA_AndroidAwakened_RB": {
+  "WVC_XenotypeSerum_Hybrid_WVC_Golemkind_RB": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -50739,7 +50739,7 @@
     "Mod": null,
     "KarmaType": null
   },
-  "WVC_XenotypeSerum_Hybrid_VREA_AndroidAwakened_RB": {
+  "WVC_XenotypeSerum_WVC_Golemkind_RB": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -50759,7 +50759,7 @@
     "Mod": null,
     "KarmaType": null
   },
-  "WVC_XenotypeSerum_VREA_AndroidBasic_RB": {
+  "WVC_XenotypeSerum_Golemkind": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -50776,27 +50776,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
-    "KarmaType": null
-  },
-  "WVC_XenotypeSerum_Hybrid_VREA_AndroidBasic_RB": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": null,
+    "Mod": "WVC - Xenotypes and Genes",
     "KarmaType": null
   },
   "WVC_XenotypeSerum_BEWH_TzeentchMarine_RB": {
