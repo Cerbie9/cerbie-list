@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<savedXenotype>
+	<meta>
+		<gameVersion>1.4.3580 rev1304</gameVersion>
+		<modIds>
+			<li>brrainz.harmony</li>
+			<li>ludeon.rimworld</li>
+			<li>ludeon.rimworld.royalty</li>
+			<li>ludeon.rimworld.ideology</li>
+			<li>ludeon.rimworld.biotech</li>
+			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>oskarpotocki.vanillaexpanded.royaltypatches</li>
+			<li>vanillaexpanded.varme</li>
+			<li>vanillaexpanded.vappe</li>
+			<li>vanillaexpanded.vfearchitect</li>
+			<li>vanillaexpanded.vwe</li>
+			<li>vanillaexpanded.vwec</li>
+			<li>vanillaexpanded.vwehw</li>
+			<li>vanillaexpanded.vweq</li>
+			<li>vanillaexpanded.vwel</li>
+			<li>oskarpotocki.vanillafactionsexpanded.settlersmodule</li>
+			<li>vanillaexpanded.vweft</li>
+			<li>vanillaexpanded.vweg</li>
+			<li>vanillaexpanded.vwetb</li>
+			<li>imranfish.xmlextensions</li>
+			<li>vanillaexpanded.vaecaves</li>
+			<li>petetimessix.researchreinvented</li>
+			<li>petetimessix.researchreinvented.steppingstones</li>
+			<li>vanillaexpanded.vcooke</li>
+			<li>vanillaexpanded.vcookestews</li>
+			<li>vanillaexpanded.vfea</li>
+			<li>oskarpotocki.vfe.classical</li>
+			<li>oskarpotocki.vfe.insectoid</li>
+			<li>oskarpotocki.vfe.mechanoid</li>
+			<li>oskarpotocki.vanillafactionsexpanded.medievalmodule</li>
+			<li>oskarpotocki.vfe.pirates</li>
+			<li>oskarpotocki.vfe.vikings</li>
+			<li>vanillaexpanded.vcef</li>
+			<li>vanillaexpanded.vmemese</li>
+			<li>vanillaexpanded.viesas</li>
+			<li>vanillaexpanded.outposts</li>
+			<li>vanillaexpanded.vplantse</li>
+			<li>vanillaexpanded.vplantsemore</li>
+			<li>vanillaexpanded.vplantsesucculents</li>
+			<li>vanillaexpanded.vtexe</li>
+			<li>vanillaexpanded.vtexvariations</li>
+			<li>erdelf.humanoidalienraces</li>
+			<li>biotexpans.core</li>
+			<li>biotexpans.mythic</li>
+			<li>biotexpans.mammalia</li>
+			<li>unlimitedhugs.hugslib</li>
+			<li>tac.genetrader</li>
+			<li>aoba.fortress.industrial</li>
+			<li>aoba.fortress.industrial.citadel</li>
+			<li>dark.cloning</li>
+			<li>vanillaexpanded.vgeneticse</li>
+			<li>com.toolkit.extension</li>
+		</modIds>
+		<modSteamIds>
+			<li>0</li>
+			<li>0</li>
+			<li>1149640</li>
+			<li>1392840</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+		</modSteamIds>
+		<modNames>
+			<li>Harmony</li>
+			<li>Core</li>
+			<li>Royalty</li>
+			<li>Ideology</li>
+			<li>Biotech</li>
+			<li>Vanilla Expanded Framework</li>
+			<li>Vanilla Expanded - Royalty Patches</li>
+			<li>Vanilla Armour Expanded</li>
+			<li>Vanilla Apparel Expanded</li>
+			<li>Vanilla Furniture Expanded - Architect</li>
+			<li>Vanilla Weapons Expanded</li>
+			<li>Vanilla Weapons Expanded - Coilguns</li>
+			<li>Vanilla Weapons Expanded - Heavy Weapons</li>
+			<li>Vanilla Weapons Expanded - Quickdraw</li>
+			<li>Vanilla Weapons Expanded - Laser</li>
+			<li>Vanilla Factions Expanded - Settlers</li>
+			<li>Vanilla Weapons Expanded - Frontier</li>
+			<li>Vanilla Weapons Expanded - Grenades</li>
+			<li>Vanilla Weapons Expanded - Tribal</li>
+			<li>XML Extensions</li>
+			<li>Vanilla Animals Expanded — Caves</li>
+			<li>Research Reinvented</li>
+			<li>Research Reinvented: Stepping Stones</li>
+			<li>Vanilla Cooking Expanded</li>
+			<li>Vanilla Cooking Expanded - Stews</li>
+			<li>Vanilla Factions Expanded - Ancients</li>
+			<li>Vanilla Factions Expanded - Classical</li>
+			<li>Vanilla Factions Expanded - Insectoids</li>
+			<li>Vanilla Factions Expanded - Mechanoids</li>
+			<li>Vanilla Factions Expanded - Medieval</li>
+			<li>Vanilla Factions Expanded - Pirates</li>
+			<li>Vanilla Factions Expanded - Vikings</li>
+			<li>Vanilla Fishing Expanded</li>
+			<li>Vanilla Ideology Expanded - Memes and Structures</li>
+			<li>Vanilla Ideology Expanded - Splits and Schisms</li>
+			<li>Vanilla Outposts Expanded</li>
+			<li>Vanilla Plants Expanded</li>
+			<li>Vanilla Plants Expanded - More Plants</li>
+			<li>Vanilla Plants Expanded - Succulents</li>
+			<li>Vanilla Textures Expanded</li>
+			<li>Vanilla Textures Expanded - Variations</li>
+			<li>Humanoid Alien Races</li>
+			<li>Biotech Expansion - Core</li>
+			<li>Biotech Expansion - Mythic</li>
+			<li>Biotech Expansion - Mammalia</li>
+			<li>HugsLib</li>
+			<li>Gene Trader</li>
+			<li>Fortifications - Industrial</li>
+			<li>Fortification Industrial - Citadel</li>
+			<li>Biotech Cloning</li>
+			<li>Vanilla Genetics Expanded</li>
+			<li>ToolkitExt</li>
+		</modNames>
+	</meta>
+	<xenotype>
+		<name>xenan</name>
+		<genes>
+			<li>AptitudeTerrible_Shooting</li>
+			<li>AptitudeRemarkable_Cooking</li>
+			<li>AptitudeTerrible_Crafting</li>
+		</genes>
+		<iconDef>Basic</iconDef>
+	</xenotype>
+</savedXenotype>

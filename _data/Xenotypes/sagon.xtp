@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<savedXenotype>
+	<meta>
+		<gameVersion>1.4.3641 rev649</gameVersion>
+		<modIds>
+			<li>brrainz.harmony</li>
+			<li>ludeon.rimworld</li>
+			<li>ludeon.rimworld.royalty</li>
+			<li>ludeon.rimworld.ideology</li>
+			<li>ludeon.rimworld.biotech</li>
+			<li>fluffy.worktab</li>
+			<li>unlimitedhugs.hugslib</li>
+			<li>orion.hospitality</li>
+			<li>voult.betterpawncontrol</li>
+			<li>mehni.pickupandhaul</li>
+		</modIds>
+		<modSteamIds>
+			<li>0</li>
+			<li>0</li>
+			<li>1149640</li>
+			<li>1392840</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+		</modSteamIds>
+		<modNames>
+			<li>Harmony</li>
+			<li>Core</li>
+			<li>Royalty</li>
+			<li>Ideology</li>
+			<li>Biotech</li>
+			<li>Work Tab</li>
+			<li>HugsLib</li>
+			<li>Hospitality</li>
+			<li>Better Pawn Control</li>
+			<li>Pick Up And Haul</li>
+		</modNames>
+	</meta>
+	<xenotype>
+		<name>sagon</name>
+		<genes>
+			<li>Ears_Floppy</li>
+			<li>Headbone_CenterHorn</li>
+			<li>AptitudeTerrible_Cooking</li>
+			<li>AptitudeTerrible_Social</li>
+			<li>AptitudeRemarkable_Intellectual</li>
+		</genes>
+		<iconDef>Basic</iconDef>
+	</xenotype>
+</savedXenotype>

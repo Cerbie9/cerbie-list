@@ -1,0 +1,528 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<savedXenotype>
+	<meta>
+		<gameVersion>1.4.3613 rev641</gameVersion>
+		<modIds>
+			<li>brrainz.harmony</li>
+			<li>ludeon.rimworld</li>
+			<li>ludeon.rimworld.royalty</li>
+			<li>ludeon.rimworld.ideology</li>
+			<li>ludeon.rimworld.biotech</li>
+			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>vanillaexpanded.achievements</li>
+			<li>vanillaexpanded.vwe</li>
+			<li>vanillaexpanded.vweq</li>
+			<li>vanillaexpanded.vwel</li>
+			<li>vanillaexpanded.vwehw</li>
+			<li>vanillaexpanded.vwec</li>
+			<li>oskarpotocki.vanillafactionsexpanded.settlersmodule</li>
+			<li>vanillaexpanded.vweft</li>
+			<li>oskarpotocki.vanillaexpanded.ideologypatches</li>
+			<li>oskarpotocki.vanillaexpanded.royaltypatches</li>
+			<li>lwm.deepstorage</li>
+			<li>syrchalis.processor.framework</li>
+			<li>dankpyon.medieval.overhaul</li>
+			<li>vanillaexpanded.varme</li>
+			<li>vanillaexpanded.vappe</li>
+			<li>vanillaexpanded.vfearchitect</li>
+			<li>vanillaexpanded.vweg</li>
+			<li>vanillaexpanded.vwetb</li>
+			<li>imranfish.xmlextensions</li>
+			<li>vanillaexpanded.vaecaves</li>
+			<li>petetimessix.researchreinvented</li>
+			<li>petetimessix.researchreinvented.steppingstones</li>
+			<li>vanillaexpanded.vcooke</li>
+			<li>vanillaexpanded.vcookestews</li>
+			<li>vanillaexpanded.vfea</li>
+			<li>oskarpotocki.vfe.classical</li>
+			<li>oskarpotocki.vfe.insectoid</li>
+			<li>oskarpotocki.vfe.mechanoid</li>
+			<li>oskarpotocki.vanillafactionsexpanded.medievalmodule</li>
+			<li>oskarpotocki.vfe.pirates</li>
+			<li>oskarpotocki.vfe.vikings</li>
+			<li>vanillaexpanded.vcef</li>
+			<li>vanillaexpanded.viesas</li>
+			<li>vanillaexpanded.outposts</li>
+			<li>vanillaexpanded.vplantse</li>
+			<li>vanillaexpanded.vplantsemore</li>
+			<li>vanillaexpanded.vplantsesucculents</li>
+			<li>vanillaexpanded.vtexe</li>
+			<li>vanillaexpanded.vfecore</li>
+			<li>erdelf.humanoidalienraces</li>
+			<li>biotexpans.core</li>
+			<li>biotexpans.mythic</li>
+			<li>biotexpans.mammalia</li>
+			<li>unlimitedhugs.hugslib</li>
+			<li>tac.genetrader</li>
+			<li>vanillaexpanded.vfesecurity</li>
+			<li>aoba.fortress.industrial</li>
+			<li>aoba.fortress.industrial.citadel</li>
+			<li>dark.cloning</li>
+			<li>orion.hospitality</li>
+			<li>jecrell.jecstools</li>
+			<li>hobtook.mortaraccuracy</li>
+			<li>gt.sam.tilledsoil</li>
+			<li>vanillaexpanded.vaeendandext</li>
+			<li>vanillaexpanded.vanillatraitsexpanded</li>
+			<li>vse.igorinvader</li>
+			<li>fluffy.worktab</li>
+			<li>spoonshortage.adogsaidanimalprosthetics</li>
+			<li>torann.arimworldofmagic</li>
+			<li>brrainz.achtung</li>
+			<li>sarg.alphaanimals</li>
+			<li>aw.mech.helmets</li>
+			<li>com.bymarcin.architecticons</li>
+			<li>falconne.bwm</li>
+			<li>rimofmadness.callofcthulhucosmichorrors</li>
+			<li>rimofmadness.callofcthulhucults</li>
+			<li>dylan.csl</li>
+			<li>botchjob.gallatrossandfriendsretextured</li>
+			<li>ogliss.ykara.harvesteverything</li>
+			<li>itchyflea.medicaltraining</li>
+			<li>erdelf.minifyeverything</li>
+			<li>vanillaexpanded.vfepower</li>
+			<li>battlemage64.peoplecanchange</li>
+			<li>knight.medicalivs</li>
+			<li>ogre.ogrestack</li>
+			<li>hatti.qualitybuilder</li>
+			<li>hatti.qualitysurgeon</li>
+			<li>weilbyte.renamecolony</li>
+			<li>sihv.rombones</li>
+			<li>rimofmadness.vampires</li>
+			<li>petetimessix.simplesidearms</li>
+			<li>uuugggg.tdpack</li>
+			<li>frozensnowfox.filthvanisheswithrainandtime</li>
+			<li>syrchalis.doormats</li>
+			<li>syrchalis.prosthetictable</li>
+			<li>sarg.rimbees</li>
+			<li>dylan.animalgear</li>
+			<li>solaris.bioreactor</li>
+			<li>proxyer.desurgeries.hard</li>
+			<li>pyrce.mass.graves</li>
+			<li>kamikatze.materialfilter</li>
+			<li>roolo.dualwield</li>
+			<li>vanillaexpanded.vgeneticse</li>
+			<li>vanillaexpanded.vbookse</li>
+			<li>murmur.walllight</li>
+			<li>sargoskar.witcherhunt</li>
+			<li>neronix17.toolbox</li>
+			<li>kikohi.jewelry</li>
+			<li>newcolonist.largefactionbases</li>
+			<li>lordoftherims.dwarves</li>
+			<li>lordoftherims.elves</li>
+			<li>lordoftherims.hobbits</li>
+			<li>kikohi.cybernetic</li>
+			<li>nilchei.dynamicdiplomacy</li>
+			<li>uuugggg.tdfindlib</li>
+			<li>nunahuralshamikh.entosomnia</li>
+			<li>void.charactereditor</li>
+			<li>uuugggg.buildfrominventory</li>
+			<li>mlie.cyberneticwarfare</li>
+			<li>goudaquiche.bloodandstains</li>
+			<li>dark.jobinbar</li>
+			<li>nunahuralshamikh.lightingandheat</li>
+			<li>nunahuralshamikh.medmed</li>
+			<li>nunahuralshamikh.medp</li>
+			<li>notfood.morethancapable</li>
+			<li>netrve.dsgui</li>
+			<li>sirmashedpotato.darkdescent</li>
+			<li>vanillaexpanded.vfefarming</li>
+			<li>vanillaexpanded.vee</li>
+			<li>vanillaexpanded.vbrewe</li>
+			<li>vanillaexpanded.vfeproduction</li>
+			<li>vanillaexpanded.vhe</li>
+			<li>sarg.magicalmenagerie</li>
+			<li>sineswiper.xenobionicpatcher</li>
+			<li>mlie.rfrumorhasit</li>
+			<li>mlie.bloodtypesbloodbag</li>
+			<li>xrushha.buyablepsylinkneuroformers</li>
+			<li>prestigephoenix.maltum</li>
+			<li>longercfloor.proxyheat</li>
+			<li>sierra.rt.generaltraits</li>
+			<li>dhultgren.smarterconstruction</li>
+			<li>zhrocks11.stackablechunks_copy</li>
+			<li>mlie.suprememelee</li>
+			<li>aoba.fortress.neolithic</li>
+			<li>vanillaexpanded.vwems</li>
+			<li>noodlesking.morepsycasts</li>
+			<li>aoba.fortress.medieval</li>
+			<li>aoba.fortress.medieval.material</li>
+			<li>vanillaexpanded.vanillasocialinteractionsexpanded</li>
+			<li>vanillaexpanded.vaeaccessories</li>
+			<li>rebelrabbit.qualitybionics</li>
+			<li>saucypigeon.pawnbadge</li>
+			<li>scherub.skilledstonecutting</li>
+			<li>thepatchworkhoax.meleepsycasts</li>
+			<li>dame.arcanetechnology</li>
+			<li>jangodsoul.castlewalls</li>
+			<li>bs.hpr</li>
+			<li>llunak.moreprecepts</li>
+			<li>owlchemist.animalgear.equipment</li>
+			<li>frozensnowfox.betterancientcomplexloot</li>
+			<li>inventorraccoon.veraccoonspatch</li>
+			<li>vanillaexpanded.viehar</li>
+			<li>vanillaexpanded.ideo.relicsandartifacts</li>
+			<li>derekbickley.worthlessjunk</li>
+			<li>bustedbunny.slaverebellionsimproved</li>
+			<li>mlie.prisonersshouldfearturrets</li>
+			<li>baskerville.hellsingarms</li>
+			<li>warlocksforge.fishtraps</li>
+			<li>dimonsever000.events.specific</li>
+			<li>telardo.dragselect</li>
+			<li>canon.crownsandregalia</li>
+			<li>uuugggg.tdsbugfixes</li>
+		</modIds>
+		<modSteamIds>
+			<li>0</li>
+			<li>0</li>
+			<li>1149640</li>
+			<li>1392840</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>730936602</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+		</modSteamIds>
+		<modNames>
+			<li>Harmony</li>
+			<li>Core</li>
+			<li>Royalty</li>
+			<li>Ideology</li>
+			<li>Biotech</li>
+			<li>Vanilla Expanded Framework</li>
+			<li>Vanilla Achievements Expanded</li>
+			<li>Vanilla Weapons Expanded</li>
+			<li>Vanilla Weapons Expanded - Quickdraw</li>
+			<li>Vanilla Weapons Expanded - Laser</li>
+			<li>Vanilla Weapons Expanded - Heavy Weapons</li>
+			<li>Vanilla Weapons Expanded - Coilguns</li>
+			<li>Vanilla Factions Expanded - Settlers</li>
+			<li>Vanilla Weapons Expanded - Frontier</li>
+			<li>Vanilla Expanded - Ideology Patches</li>
+			<li>Vanilla Expanded - Royalty Patches</li>
+			<li>LWM's Deep Storage</li>
+			<li>[SYR] Processor Framework</li>
+			<li>Medieval Overhaul</li>
+			<li>Vanilla Armour Expanded</li>
+			<li>Vanilla Apparel Expanded</li>
+			<li>Vanilla Furniture Expanded - Architect</li>
+			<li>Vanilla Weapons Expanded - Grenades</li>
+			<li>Vanilla Weapons Expanded - Tribal</li>
+			<li>XML Extensions</li>
+			<li>Vanilla Animals Expanded — Caves</li>
+			<li>Research Reinvented</li>
+			<li>Research Reinvented: Stepping Stones</li>
+			<li>Vanilla Cooking Expanded</li>
+			<li>Vanilla Cooking Expanded - Stews</li>
+			<li>Vanilla Factions Expanded - Ancients</li>
+			<li>Vanilla Factions Expanded - Classical</li>
+			<li>Vanilla Factions Expanded - Insectoids</li>
+			<li>Vanilla Factions Expanded - Mechanoids</li>
+			<li>Vanilla Factions Expanded - Medieval</li>
+			<li>Vanilla Factions Expanded - Pirates</li>
+			<li>Vanilla Factions Expanded - Vikings</li>
+			<li>Vanilla Fishing Expanded</li>
+			<li>Vanilla Ideology Expanded - Splits and Schisms</li>
+			<li>Vanilla Outposts Expanded</li>
+			<li>Vanilla Plants Expanded</li>
+			<li>Vanilla Plants Expanded - More Plants</li>
+			<li>Vanilla Plants Expanded - Succulents</li>
+			<li>Vanilla Textures Expanded</li>
+			<li>Vanilla Furniture Expanded</li>
+			<li>Humanoid Alien Races</li>
+			<li>Biotech Expansion - Core</li>
+			<li>Biotech Expansion - Mythic</li>
+			<li>Biotech Expansion - Mammalia</li>
+			<li>HugsLib</li>
+			<li>Gene Trader</li>
+			<li>Vanilla Furniture Expanded - Security</li>
+			<li>Fortifications - Industrial</li>
+			<li>Fortification Industrial - Citadel</li>
+			<li>Biotech Cloning</li>
+			<li>Hospitality</li>
+			<li>JecsTools</li>
+			<li>Mortar Accuracy</li>
+			<li>Tilled Soil</li>
+			<li>Vanilla Animals Expanded — Endangered</li>
+			<li>Vanilla Traits Expanded</li>
+			<li>Vanilla Storytellers Expanded - Igor Invader</li>
+			<li>Work Tab</li>
+			<li>A Dog Said... Animal Prosthetics</li>
+			<li>A RimWorld of Magic</li>
+			<li>Achtung!</li>
+			<li>Alpha Animals</li>
+			<li>Ancient Mech Helmets</li>
+			<li>Architect Icons</li>
+			<li>Better Workbench Management</li>
+			<li>Call of Cthulhu - Cosmic Horrors</li>
+			<li>Call of Cthulhu - Cults</li>
+			<li>Children, school and learning</li>
+			<li>Gallatross and Friends Retextured</li>
+			<li>Harvest Everything!</li>
+			<li>Medical Training</li>
+			<li>MinifyEverything</li>
+			<li>Vanilla Furniture Expanded - Power</li>
+			<li>People Can Change</li>
+			<li>Medical IVs</li>
+			<li>OgreStack</li>
+			<li>QualityBuilder</li>
+			<li>QualitySurgeon</li>
+			<li>RenameColony</li>
+			<li>Rim of Madness - Bones</li>
+			<li>Rim of Madness - Vampires</li>
+			<li>Simple sidearms</li>
+			<li>TD Enhancement Pack</li>
+			<li>[FSF] Filth Vanishes With Rain And Time</li>
+			<li>[SYR] Doormats</li>
+			<li>[SYR] Prosthetic Table</li>
+			<li>Alpha Bees</li>
+			<li>Animal Gear</li>
+			<li>BioReactor</li>
+			<li>DE Surgeries Hard</li>
+			<li>Mass Graves</li>
+			<li>Material Filter</li>
+			<li>Dual Wield</li>
+			<li>Vanilla Genetics Expanded</li>
+			<li>Vanilla Books Expanded</li>
+			<li>Wall Light</li>
+			<li>RimWorld - Witcher Monster Hunt</li>
+			<li>Tabula Rasa</li>
+			<li>Jewelry</li>
+			<li>Large Faction Bases</li>
+			<li>Lord of the Rims - Dwarves</li>
+			<li>Lord of the Rims - Elves</li>
+			<li>Lord of the Rims - Hobbits</li>
+			<li>Cybernetic Organism and Neural Network</li>
+			<li>Dynamic Diplomacy</li>
+			<li>TD Find Lib</li>
+			<li>Entosomnia - Medieval Cryptosleep</li>
+			<li>Character Editor</li>
+			<li>Build From Inventory</li>
+			<li>Cybernetic Warfare and Special Weapons (Continued)</li>
+			<li>Blood and stains</li>
+			<li>Job In Bar</li>
+			<li>Medieval Lighting and Heat</li>
+			<li>Medieval Medicines</li>
+			<li>Medieval Prosthetics</li>
+			<li>More Than Capable</li>
+			<li>Netrve's DeepStorage GUI</li>
+			<li>RimWorld - The Dark Descent</li>
+			<li>Vanilla Furniture Expanded - Farming</li>
+			<li>Vanilla Events Expanded</li>
+			<li>Vanilla Brewing Expanded</li>
+			<li>Vanilla Furniture Expanded - Production</li>
+			<li>Vanilla Hair Expanded</li>
+			<li>Alpha Mythology</li>
+			<li>Xenobionic Patcher</li>
+			<li>[RF] Rumor Has It.... (Continued)</li>
+			<li>BloodTypes + BloodBag (Continued)</li>
+			<li>Buyable psylink neuroformers</li>
+			<li>Prestige Specialist Armours</li>
+			<li>ProxyHeat</li>
+			<li>RimTraits - General Traits</li>
+			<li>Smarter Construction</li>
+			<li>Stackable Chunks [1.4+]</li>
+			<li>Supreme Melee (Continued)</li>
+			<li>Fortifications - Neolithic</li>
+			<li>Vanilla Weapons Expanded - Makeshift</li>
+			<li>More Psycasts</li>
+			<li>Fortifications - Medieval</li>
+			<li>Fortifications - Medieval - Material</li>
+			<li>Vanilla Social Interactions Expanded</li>
+			<li>Vanilla Apparel Expanded — Accessories</li>
+			<li>Quality Bionics</li>
+			<li>Pawn Badge Fan Fork [Adopted]</li>
+			<li>Skilled Stonecutting [1.4]</li>
+			<li>Melee Psycasts</li>
+			<li>[D] Arcane Technology</li>
+			<li>[JDS] Castle Walls</li>
+			<li>HD Pawn Rendering</li>
+			<li>More Precepts</li>
+			<li>Animal Equipment</li>
+			<li>[FSF] Better Ancient Complex Loot</li>
+			<li>Vanilla Expanded - Raccoon's Patch</li>
+			<li>Vanilla Ideology Expanded - Hats and Rags</li>
+			<li>Vanilla Ideology Expanded - Relics and Artifacts</li>
+			<li>Worthless Junk</li>
+			<li>Slave Rebellions Improved</li>
+			<li>Prisoners Should Fear Turrets</li>
+			<li>Hellsing ARMS</li>
+			<li>Fish Traps</li>
+			<li>Events+</li>
+			<li>DragSelect</li>
+			<li>Crowns and Regalia</li>
+			<li>TDS Bug Fixes</li>
+		</modNames>
+	</meta>
+	<xenotype>
+		<name>yonex</name>
+		<inheritable>True</inheritable>
+		<genes>
+			<li>AptitudeRemarkable_Cooking</li>
+			<li>AptitudeRemarkable_Plants</li>
+			<li>AptitudeTerrible_Crafting</li>
+			<li>AptitudeTerrible_Social</li>
+			<li>AptitudeTerrible_Intellectual</li>
+		</genes>
+		<iconDef>Basic</iconDef>
+	</xenotype>
+</savedXenotype>

@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<savedXenotype>
+	<meta>
+		<gameVersion>1.4.3704 rev896</gameVersion>
+		<modIds>
+			<li>brrainz.harmony</li>
+			<li>ludeon.rimworld</li>
+			<li>ludeon.rimworld.royalty</li>
+			<li>ludeon.rimworld.ideology</li>
+			<li>ludeon.rimworld.biotech</li>
+			<li>krafs.levelup</li>
+			<li>unlimitedhugs.hugslib</li>
+			<li>hodlhodl.toolkitcore</li>
+			<li>hodlhodl.twitchtoolkit</li>
+			<li>sirrandoo.tku</li>
+			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>vanillaexpanded.achievements</li>
+			<li>voult.betterpawncontrol</li>
+			<li>arandomkiwi.powerpp</li>
+			<li>brrainz.cameraplus</li>
+			<li>tradingcontrol.tad.rimworld.core</li>
+			<li>erdelf.humanoidalienraces</li>
+			<li>rooandgloomy.dragonianracemod</li>
+			<li>kalospacer.dragonianmix</li>
+			<li>orion.hospitality</li>
+			<li>uuugggg.buildfrominventory</li>
+			<li>meltup.advancedpowerplus</li>
+			<li>epicfloor.custombutcherframework</li>
+			<li>stolij.morebatteries</li>
+			<li>noodlesking.morepsycasts</li>
+			<li>mehni.pickupandhaul</li>
+			<li>devdesigner.thrumboianrace</li>
+			<li>gold.ultimatestoryteller</li>
+			<li>vse.igorinvader</li>
+			<li>vse.neronneolithic</li>
+			<li>vse.perrypersistent</li>
+			<li>pyrce.mass.graves</li>
+			<li>vanillaexpanded.vplantse</li>
+			<li>vanillaexpanded.vplantsemore</li>
+			<li>fluffy.worktab</li>
+			<li>seos.m.storages</li>
+			<li>vanillaexpanded.vpsycastse</li>
+			<li>petetimessix.researchreinvented</li>
+			<li>vanillaexpanded.skills</li>
+			<li>vanillaexpanded.vanillatraitsexpanded</li>
+			<li>steve.sanguinearmor</li>
+			<li>twistedpacifist.reasonablecomponents</li>
+			<li>mallow.aurochs</li>
+			<li>frozensnowfox.morepsycastpowers</li>
+			<li>mlie.tpblood</li>
+			<li>fluffy.blueprints</li>
+			<li>edern.combatpsycasts</li>
+			<li>jecrell.doorsexpanded</li>
+			<li>automatic.gunplay</li>
+			<li>yamazaki.highlandboomcow</li>
+			<li>x3v21.jmc</li>
+			<li>jecrell.jecstools</li>
+			<li>lp.levelthisforked2</li>
+			<li>mse2.core</li>
+			<li>thepatchworkhoax.meleepsycasts</li>
+			<li>co.uk.epicguru.meleeanimation</li>
+			<li>daria40k.mightypersonabondforgepatch</li>
+			<li>romyashi.moreplantproducts</li>
+			<li>zylle.morevanillabiomes</li>
+			<li>roolo.searchanddestroy</li>
+			<li>kathanon.floatsubmenu</li>
+			<li>kathanon.searchablemenus</li>
+			<li>nmeijer.settlementinventory</li>
+			<li>vanillaexpanded.vappe</li>
+			<li>vanillaexpanded.vbookse</li>
+			<li>vanillaexpanded.vee</li>
+			<li>vanillaexpanded.vfecore</li>
+			<li>vanillaexpanded.outposts</li>
+			<li>vanillaexpanded.vpersonaweaponse</li>
+			<li>vanillaracesexpanded.sanguophage</li>
+			<li>vanillaexpanded.vwe</li>
+			<li>vanillaexpanded.vwec</li>
+			<li>vanillaexpanded.vweq</li>
+			<li>vanillaexpanded.vwel</li>
+			<li>vanillaexpanded.vweft</li>
+			<li>vanillaexpanded.vweg</li>
+			<li>jdalt.vpeselfcastpatch</li>
+			<li>bodlosh.weaponstats</li>
+			<li>co.uk.epicguru.whatsthatmod</li>
+			<li>tammybee.whereismyweapon</li>
+			<li>imranfish.xmlextensions</li>
+			<li>dubwise.dubsmintmenus</li>
+			<li>zal.blood2hemogen</li>
+			<li>arquebus.thrumboplushie</li>
+			<li>xrushha.animagear</li>
+			<li>xrushha.eldersfaction</li>
+			<li>hackerlaastad.moretraits</li>
+			<li>aranmaho.makai.psycast</li>
+			<li>onyxae.dragonsdescent</li>
+			<li>kingsman.barbatos</li>
+			<li>denerose.muffaloaf</li>
+			<li>db.reskin.muffaloaves</li>
+			<li>gold.usbasilicuspatch</li>
+			<li>vanillaexpanded.vanillaanimalsexpanded</li>
+			<li>vanillaexpanded.vfeproduction</li>
+			<li>redmattis.vanillagenesrebalanced</li>
+			<li>wvc.sergkart.races.biotech</li>
+		</modIds>
+		<modSteamIds>
+			<li>0</li>
+			<li>0</li>
+			<li>1149640</li>
+			<li>1392840</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+		</modSteamIds>
+		<modNames>
+			<li>Harmony</li>
+			<li>Core</li>
+			<li>Royalty</li>
+			<li>Ideology</li>
+			<li>Biotech</li>
+			<li>Level Up!</li>
+			<li>HugsLib</li>
+			<li>ToolkitCore</li>
+			<li>Twitch Toolkit</li>
+			<li>ToolkitUtils</li>
+			<li>Vanilla Expanded Framework</li>
+			<li>Vanilla Achievements Expanded</li>
+			<li>Better Pawn Control</li>
+			<li>Power++</li>
+			<li>Camera+</li>
+			<li>Trading Control</li>
+			<li>Humanoid Alien Races</li>
+			<li>Gloomy Dragonian race</li>
+			<li>Dragonian Mix</li>
+			<li>Hospitality</li>
+			<li>Build From Inventory</li>
+			<li>Advanced Power Plus</li>
+			<li>Custom Butcher Framework</li>
+			<li>More Batteries</li>
+			<li>More Psycasts</li>
+			<li>Pick Up And Haul</li>
+			<li>Thrumboian Race</li>
+			<li>Ultimate Storyteller (1.4)</li>
+			<li>Vanilla Storytellers Expanded - Igor Invader</li>
+			<li>Vanilla Storytellers Expanded - Neron Neolithic</li>
+			<li>Vanilla Storytellers Expanded - Perry Persistent</li>
+			<li>Mass Graves</li>
+			<li>Vanilla Plants Expanded</li>
+			<li>Vanilla Plants Expanded - More Plants</li>
+			<li>Work Tab</li>
+			<li>Storage - Shelves</li>
+			<li>Vanilla Psycasts Expanded</li>
+			<li>Research Reinvented</li>
+			<li>Vanilla Skills Expanded</li>
+			<li>Vanilla Traits Expanded</li>
+			<li>Sanguine Armor</li>
+			<li>Reasonable Components</li>
+			<li>Aurochs</li>
+			<li>[FSF] More Psycast Powers</li>
+			<li>[TP]Blood (Continued)</li>
+			<li>Blueprints</li>
+			<li>Combat Psycasts</li>
+			<li>Doors Expanded</li>
+			<li>Gunplay</li>
+			<li>Highland Boomcow</li>
+			<li>Japanese Mythological Creatures</li>
+			<li>JecsTools</li>
+			<li>Level This! - Fixed Options</li>
+			<li>Medical System Expansion 2</li>
+			<li>Melee Psycasts</li>
+			<li>Melee Animation</li>
+			<li>Mighty Persona Bond Forge Patch Mod</li>
+			<li>More Plant Products</li>
+			<li>More Vanilla Biomes</li>
+			<li>Search and Destroy</li>
+			<li>Float Sub-Menus</li>
+			<li>Searchable Menus</li>
+			<li>Settlement Inventory</li>
+			<li>Vanilla Apparel Expanded</li>
+			<li>Vanilla Books Expanded</li>
+			<li>Vanilla Events Expanded</li>
+			<li>Vanilla Furniture Expanded</li>
+			<li>Vanilla Outposts Expanded</li>
+			<li>Vanilla Persona Weapons Expanded</li>
+			<li>Vanilla Races Expanded - Sanguophage</li>
+			<li>Vanilla Weapons Expanded</li>
+			<li>Vanilla Weapons Expanded - Coilguns</li>
+			<li>Vanilla Weapons Expanded - Quickdraw</li>
+			<li>Vanilla Weapons Expanded - Laser</li>
+			<li>Vanilla Weapons Expanded - Frontier</li>
+			<li>Vanilla Weapons Expanded - Grenades</li>
+			<li>VPE Self-Cast This!</li>
+			<li>WeaponStats</li>
+			<li>What's That Mod</li>
+			<li>Where is my weapon?</li>
+			<li>XML Extensions</li>
+			<li>Dubs Mint Menus</li>
+			<li>Blood to Hemogen</li>
+			<li>Thrumbo Plushie</li>
+			<li>Anima Gear</li>
+			<li>Elders Faction</li>
+			<li>More Traits</li>
+			<li>MakaiTech - Psycast</li>
+			<li>Dragons Descent</li>
+			<li>Barbatos StoryTeller</li>
+			<li>Muffaloaves</li>
+			<li>[Double Bee] Muffaloaves Reskin and Reword</li>
+			<li>Ultimate Storyteller (1.4) - Basilicus Patch (Reupload)</li>
+			<li>Vanilla Animals Expanded</li>
+			<li>Vanilla Furniture Expanded - Production</li>
+			<li>Vanilla Genes Rebalanced</li>
+			<li>WVC - Xenotypes and Genes</li>
+		</modNames>
+	</meta>
+	<xenotype>
+		<name>jackox</name>
+		<genes>
+			<li>Fertile</li>
+		</genes>
+		<iconDef>Basic</iconDef>
+	</xenotype>
+</savedXenotype>

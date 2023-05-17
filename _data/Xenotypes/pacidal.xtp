@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<savedXenotype>
+	<meta>
+		<gameVersion>1.4.3641 rev649</gameVersion>
+		<modIds>
+			<li>brrainz.harmony</li>
+			<li>ludeon.rimworld</li>
+			<li>ludeon.rimworld.royalty</li>
+			<li>ludeon.rimworld.ideology</li>
+			<li>ludeon.rimworld.biotech</li>
+			<li>uuugggg.buildfrominventory</li>
+			<li>vanillaexpanded.vanillatraitsexpanded</li>
+			<li>nmeijer.settlementinventory</li>
+			<li>spino.mechanoidsextraordinaire</li>
+			<li>sea.constructoidscanmine</li>
+			<li>voult.betterpawncontrol</li>
+			<li>meltup.advancedpowerplus</li>
+			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>oskarpotocki.vfe.mechanoid</li>
+			<li>vanillaexpanded.achievements</li>
+			<li>vanillaexpanded.vpersonaweaponse</li>
+			<li>vanillaexpanded.vpsycastse</li>
+			<li>vse.igorinvader</li>
+			<li>vse.neronneolithic</li>
+			<li>vanillaexpanded.vwel</li>
+		</modIds>
+		<modSteamIds>
+			<li>0</li>
+			<li>0</li>
+			<li>1149640</li>
+			<li>1392840</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+		</modSteamIds>
+		<modNames>
+			<li>Harmony</li>
+			<li>Core</li>
+			<li>Royalty</li>
+			<li>Ideology</li>
+			<li>Biotech</li>
+			<li>Build From Inventory</li>
+			<li>Vanilla Traits Expanded</li>
+			<li>Settlement Inventory</li>
+			<li>Mechanoids Extraordinaire</li>
+			<li>Constructoids Can Mine</li>
+			<li>Better Pawn Control</li>
+			<li>Advanced Power Plus</li>
+			<li>Vanilla Expanded Framework</li>
+			<li>Vanilla Factions Expanded - Mechanoids</li>
+			<li>Vanilla Achievements Expanded</li>
+			<li>Vanilla Persona Weapons Expanded</li>
+			<li>Vanilla Psycasts Expanded</li>
+			<li>Vanilla Storytellers Expanded - Igor Invader</li>
+			<li>Vanilla Storytellers Expanded - Neron Neolithic</li>
+			<li>Vanilla Weapons Expanded - Laser</li>
+		</modNames>
+	</meta>
+	<xenotype>
+		<name>pacidal</name>
+		<genes>
+			<li>ViolenceDisabled</li>
+			<li>AptitudeRemarkable_Cooking</li>
+		</genes>
+		<iconDef>Basic</iconDef>
+	</xenotype>
+</savedXenotype>

@@ -34421,12 +34421,12 @@
   },
   "GR_FleshMonstrosity": {
     "CustomName": null,
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0,
     "ResearchOverrides": null,
     "IsUsable": true,
@@ -34437,7 +34437,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Vanilla Genetics Expanded",
-    "KarmaType": null
+    "KarmaType": "Doom"
   },
   "GR_FleshGrowth": {
     "CustomName": null,

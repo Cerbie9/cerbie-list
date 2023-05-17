@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<savedXenotype>
+	<meta>
+		<gameVersion>1.4.3641 rev649</gameVersion>
+		<modIds>
+			<li>brrainz.harmony</li>
+			<li>ludeon.rimworld</li>
+			<li>ludeon.rimworld.royalty</li>
+			<li>ludeon.rimworld.ideology</li>
+			<li>ludeon.rimworld.biotech</li>
+			<li>uuugggg.buildfrominventory</li>
+			<li>vanillaexpanded.vanillatraitsexpanded</li>
+			<li>nmeijer.settlementinventory</li>
+			<li>spino.mechanoidsextraordinaire</li>
+			<li>sea.constructoidscanmine</li>
+			<li>unlimitedhugs.hugslib</li>
+			<li>voult.betterpawncontrol</li>
+			<li>meltup.advancedpowerplus</li>
+			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>oskarpotocki.vfe.mechanoid</li>
+			<li>vanillaexpanded.achievements</li>
+			<li>vanillaexpanded.vpersonaweaponse</li>
+			<li>vanillaexpanded.vpsycastse</li>
+			<li>vse.igorinvader</li>
+			<li>vse.neronneolithic</li>
+			<li>vanillaexpanded.vwel</li>
+			<li>vinalx.researchpalforked</li>
+			<li>redmattis.vanillagenesrebalanced</li>
+			<li>fluffy.worktab</li>
+			<li>wvc.sergkart.races.biotech</li>
+			<li>hackerlaastad.moretraits</li>
+			<li>darkborderman.moretraitgenes</li>
+			<li>edb.preparecarefully</li>
+			<li>jaxe.rimhud</li>
+			<li>frozensnowfox.morepsycastpowers</li>
+			<li>edern.combatpsycasts</li>
+			<li>erdelf.humanoidalienraces</li>
+			<li>rooandgloomy.yuranracemod</li>
+			<li>noodlesking.morepsycasts</li>
+			<li>vanillaexpanded.vanillaanimalsexpanded</li>
+			<li>vanillaexpanded.vchemfuele</li>
+			<li>vanillaexpanded.vee</li>
+			<li>oskarpotocki.vfe.pirates</li>
+			<li>vanillaexpanded.vgeneticse</li>
+			<li>vanillaexpanded.ideo.dryads</li>
+			<li>vanillaexpanded.vnutriente</li>
+			<li>vanillaexpanded.outposts</li>
+			<li>vanillaexpanded.vplantse</li>
+			<li>vanillaexpanded.vplantsemore</li>
+			<li>vanillaexpanded.skills</li>
+			<li>vse.perrypersistent</li>
+			<li>vanillaexpanded.vwe</li>
+			<li>vanillaexpanded.vwec</li>
+			<li>vanillaexpanded.vwehw</li>
+			<li>vanillaexpanded.vweq</li>
+			<li>vanillaexpanded.vweft</li>
+			<li>mehni.pickupandhaul</li>
+			<li>orion.hospitality</li>
+			<li>vanillaexpanded.vfecore</li>
+			<li>vanillaexpanded.vfeproduction</li>
+			<li>ia.royalwarcasket.rw</li>
+			<li>sierra.rt.generaltraits</li>
+			<li>sierra.rt.medievaltalents</li>
+			<li>joedox.sierra.rt.medievaltalents.fr</li>
+			<li>sierra.rt.vanillatraitcolors</li>
+			<li>uveren.royalwarcaskets</li>
+			<li>tradingcontrol.tad.rimworld.core</li>
+			<li>vanillaexpanded.vweg</li>
+			<li>vanillaexpanded.vwems</li>
+			<li>vanillaexpanded.vwetb</li>
+			<li>aoba.warcasket</li>
+			<li>metalocif.warcasketpersonaweapons</li>
+			<li>fluffytowels.warcasketworkpatch</li>
+			<li>buffsboy474.smwarcaskets.ideology.testing</li>
+			<li>odeum.wmbp</li>
+		</modIds>
+		<modSteamIds>
+			<li>0</li>
+			<li>0</li>
+			<li>1149640</li>
+			<li>1392840</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+		</modSteamIds>
+		<modNames>
+			<li>Harmony</li>
+			<li>Core</li>
+			<li>Royalty</li>
+			<li>Ideology</li>
+			<li>Biotech</li>
+			<li>Build From Inventory</li>
+			<li>Vanilla Traits Expanded</li>
+			<li>Settlement Inventory</li>
+			<li>Mechanoids Extraordinaire</li>
+			<li>Constructoids Can Mine</li>
+			<li>HugsLib</li>
+			<li>Better Pawn Control</li>
+			<li>Advanced Power Plus</li>
+			<li>Vanilla Expanded Framework</li>
+			<li>Vanilla Factions Expanded - Mechanoids</li>
+			<li>Vanilla Achievements Expanded</li>
+			<li>Vanilla Persona Weapons Expanded</li>
+			<li>Vanilla Psycasts Expanded</li>
+			<li>Vanilla Storytellers Expanded - Igor Invader</li>
+			<li>Vanilla Storytellers Expanded - Neron Neolithic</li>
+			<li>Vanilla Weapons Expanded - Laser</li>
+			<li>ResearchPal - Forked</li>
+			<li>Vanilla Genes Rebalanced</li>
+			<li>Work Tab</li>
+			<li>WVC - Xenotypes and Genes</li>
+			<li>More Traits</li>
+			<li>More Genes</li>
+			<li>EdB Prepare Carefully</li>
+			<li>RimHUD</li>
+			<li>[FSF] More Psycast Powers</li>
+			<li>Combat Psycasts</li>
+			<li>Humanoid Alien Races</li>
+			<li>Yuran race</li>
+			<li>More Psycasts</li>
+			<li>Vanilla Animals Expanded</li>
+			<li>Vanilla Chemfuel Expanded</li>
+			<li>Vanilla Events Expanded</li>
+			<li>Vanilla Factions Expanded - Pirates</li>
+			<li>Vanilla Genetics Expanded</li>
+			<li>Vanilla Ideology Expanded - Dryads</li>
+			<li>Vanilla Nutrient Paste Expanded</li>
+			<li>Vanilla Outposts Expanded</li>
+			<li>Vanilla Plants Expanded</li>
+			<li>Vanilla Plants Expanded - More Plants</li>
+			<li>Vanilla Skills Expanded</li>
+			<li>Vanilla Storytellers Expanded - Perry Persistent</li>
+			<li>Vanilla Weapons Expanded</li>
+			<li>Vanilla Weapons Expanded - Coilguns</li>
+			<li>Vanilla Weapons Expanded - Heavy Weapons</li>
+			<li>Vanilla Weapons Expanded - Quickdraw</li>
+			<li>Vanilla Weapons Expanded - Frontier</li>
+			<li>Pick Up And Haul</li>
+			<li>Hospitality</li>
+			<li>Vanilla Furniture Expanded</li>
+			<li>Vanilla Furniture Expanded - Production</li>
+			<li>Imperial Arsenal: Royal Warcasket</li>
+			<li>RimTraits - General Traits</li>
+			<li>RimTraits - Medieval Talents</li>
+			<li>RimTraits - Medieval Talents [Fr]</li>
+			<li>RimTraits - Vanilla Trait Colors</li>
+			<li>Royal Warcaskets</li>
+			<li>Trading Control</li>
+			<li>Vanilla Weapons Expanded - Grenades</li>
+			<li>Vanilla Weapons Expanded - Makeshift</li>
+			<li>Vanilla Weapons Expanded - Tribal</li>
+			<li>WarCasket Expanded</li>
+			<li>Warcasket Persona Weapons</li>
+			<li>Warcaskets can work!</li>
+			<li>Warcaskets: Adeptus Astartes</li>
+			<li>World Map Beautification Project</li>
+		</modNames>
+	</meta>
+	<xenotype>
+		<name>suner</name>
+		<inheritable>True</inheritable>
+		<genes>
+			<li>Mood_Optimist</li>
+			<li>AptitudeRemarkable_Cooking</li>
+			<li>WVC_AptitudeImpossible_Medicine</li>
+		</genes>
+		<iconDef>Basic</iconDef>
+	</xenotype>
+</savedXenotype>
